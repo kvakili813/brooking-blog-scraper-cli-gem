@@ -7,7 +7,7 @@ This Ruby Gem provides a CLI to view to Brooking Institution's top blog stories 
 Add this line to your application's Gemfile:
 
 ```
-gem 'cnn_breaking_news'
+gem 'brooking_blog_scraper'
 ```
 
 And then execute:
@@ -19,12 +19,12 @@ $ bundle
 Or install it yourself as:
 
 ```
-$ gem install cnn_breaking_news
+$ gem install brooking_blog_scraper
 ```
 
 ## Usage
 
-Start a new CNNBreakingNews session in your terminal by cd'ing into the brooking_blog_scraper directory. From there, input 'ruby bin/brooking_blog_scraper' to execute the program from the terminal.
+Start a new CNNBreakingNews session in your terminal by cd'ing into the brooking_blog_scraper_cli_gem directory. From there, input 'ruby bin/brooking_blog_scraper' to execute the program from the terminal.
 
 ## Development
 
@@ -34,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/kvakili813/cnn-breaking-news-cli-gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kvakili813/brooking-blog-scraper-cli-gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
