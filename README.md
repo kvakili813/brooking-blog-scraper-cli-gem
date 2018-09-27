@@ -24,7 +24,7 @@ $ gem install brooking_blog_scraper
 
 ## Usage
 
-Start a new CNNBreakingNews session in your terminal by cd'ing into the brooking_blog_scraper_cli_gem directory. From there, input 'ruby bin/brooking_blog_scraper' to execute the program from the terminal.
+Start a new BrookingBlogScraper session in your terminal by cd'ing into the brooking_blog_scraper_cli_gem directory. From there, input 'ruby bin/brooking_blog_scraper' to execute the program from the terminal.
 
 ## Development
 
