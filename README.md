@@ -1,28 +1,30 @@
-# BrookingBlogScraper
+# Brooking Blog Scraper
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/brooking_blog_scraper`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This Ruby Gem provides a CLI to view to Brooking Institution's top blog stories scraped from the Brooking website.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-```ruby
-gem 'brooking_blog_scraper'
+```
+gem 'cnn_breaking_news'
 ```
 
 And then execute:
 
-    $ bundle
+```
+$ bundle
+```  
 
 Or install it yourself as:
 
-    $ gem install brooking_blog_scraper
+```
+$ gem install cnn_breaking_news
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+Start a new CNNBreakingNews session in your terminal by cd'ing into the brooking_blog_scraper directory. From there, input 'ruby bin/brooking_blog_scraper' to execute the program from the terminal.
 
 ## Development
 
@@ -32,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/<github username>/brooking_blog_scraper. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kvakili813/cnn-breaking-news-cli-gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -40,5 +42,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the BrookingBlogScraper project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/<github username>/brooking_blog_scraper/blob/master/CODE_OF_CONDUCT.md).
-# brooking-blog-scraper-cli-gem
+Everyone interacting in the CNNBreakingNews project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/<github username>/cnn_tracker/blob/master/CODE_OF_CONDUCT.md).

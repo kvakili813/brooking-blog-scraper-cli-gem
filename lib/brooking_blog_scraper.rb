@@ -1,5 +1,8 @@
-require "brooking_blog_scraper/version"
+require "open-uri"
+require "nokogiri"
+require "pry"
 
-module BrookingBlogScraper
-  # Your code goes here...
-end
+require_relative "brooking_blog_scraper/version"
+require_relative "brooking_blog_scraper/cli.rb"
+require_relative "brooking_blog_scraper/scraper.rb"
+require_relative "brooking_blog_scraper/blog.rb"
